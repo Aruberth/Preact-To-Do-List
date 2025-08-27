@@ -9,7 +9,7 @@
 ## Instalação
 - **Clone o projeto**
   ```
-  git clone https://github.com/usuario/nome-do-projeto.git
+  git clone https://github.com/Aruberth/Preact-To-Do-List.git
   cd nome-do-projeto
   ```
 - **Instale as dependências**
